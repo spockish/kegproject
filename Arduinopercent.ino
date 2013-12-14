@@ -1,3 +1,5 @@
+/*converts to kg measurement then to percent*/
+
 // Define bridge excite digital IO lines
 #define D0 3
 #define D1 2
