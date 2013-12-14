@@ -10,6 +10,7 @@ print 'call serial'
 def index():
 	ser.write('r')
 	value1=ser.readline()
+	#There is only one scale for now, so I can either manually update percent full or use random numbers
 	value2=20%
 	#value2=int(round(random.gauss(50,20)))
 	print 'initial values'
