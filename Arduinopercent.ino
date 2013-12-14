@@ -1,4 +1,4 @@
-/*converts to kg measurement then to percent*/
+/*converts scale output first to kg measurement then to percent, based on weight of full and empty keg and a calibration using workout weights*/
 
 // Define bridge excite digital IO lines
 #define D0 3
