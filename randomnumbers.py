@@ -1,3 +1,5 @@
+#This one is just for testing purposes when I don't have my Arduino handy. Generates random numbers instead of reading from the serial
+
 from bottle import route, run, template
 import random
 
