@@ -1,3 +1,7 @@
+/*I'm still having routing issues, so images are uploaded and hotlinked and all scripts and CSS are inline.
+There are some other templates I'm working on, but this one actually works, so it is up here for now.
+CSS is a little messy. I'm working on it.*/
+
 <!DOCTYPE html>
 <html>
 <head>
